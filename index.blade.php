@@ -10,7 +10,7 @@
    
   </head>
   <body>
-<!-- NAVIGATION BAR..................................... -->
+<!-- Header BAR..................................... -->
            <?php
             include('layouts/header.php'); 
             ?>
